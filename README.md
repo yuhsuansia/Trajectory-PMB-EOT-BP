@@ -7,7 +7,9 @@ This paper is an extension of the following work
 
 Yuxuan Xia, Karl Granström, Lennart Svensson, Ángel F. García-Femández, and Jason L. Williams (2019, July). Extended Target Poisson multi-Bernoulli Mixture Trackers Based on Sets of Trajectories. In 2019 22nd International Conference on Information Fusion (FUSION) IEEE.
 
-Full text is available at https://arxiv.org/abs/1911.09025
+Full text is available at https://arxiv.org/abs/1911.09025.
+
+The MATLAB implementation is adapted from https://github.com/meyer-ucsd/EOT-TSP-21.
 
 The estimation performance of the current set of objects is evaluated using the generalised optimal subpattern-assignment (GOSPA) integrated with the Gaussian Wasserstein distance in
 
