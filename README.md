@@ -1,7 +1,8 @@
 # Trajectory-PMB-EOT-BP
 
-This repository contains the Matlab implementation of the trajectory Poisson multi-Bernoulli filter for multiple extended object tracking using particle belief propagation proposed in
+This repository contains the Matlab implementation of the trajectory Poisson multi-Bernoulli filter for multiple extended object tracking using particle belief propagation presented in
 
+https://arxiv.org/abs/2207.10164.
 
 This paper is an extension of the following work
 
